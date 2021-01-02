@@ -1,0 +1,2 @@
+from Wikipediapagescrapper.pagescrapper import scrapWikipediaPage
+
